@@ -2,7 +2,7 @@
 ## Welcome to my corner of github. 
 This is the place where I will be putting things I build for fun and learning, so some of the code will probably make you chuckle a bit.
 
-Not to worry though, I will put some more complex things here too like anything tricky I may do for fun.
+Not to worry though, I will put some more complex things here too, like anything tricky I may do for fun.
 
 Anyway, please feel free to leave a comment. 
 
